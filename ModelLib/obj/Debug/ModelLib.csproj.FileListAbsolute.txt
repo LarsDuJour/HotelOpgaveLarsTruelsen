@@ -1,0 +1,6 @@
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\bin\Debug\ModelLib.dll
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\bin\Debug\ModelLib.pdb
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\obj\Debug\ModelLib.csprojAssemblyReference.cache
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\obj\Debug\ModelLib.csproj.CoreCompileInputs.cache
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\obj\Debug\ModelLib.dll
+C:\Users\Lars Willhelm\source\repos\HotelDBREST\ModelLib\obj\Debug\ModelLib.pdb
